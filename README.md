@@ -1,1 +1,1 @@
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Stats](https://github-readme-stats.vercel.app/api?username=ayu-syaacc&theme=tokyonight)
