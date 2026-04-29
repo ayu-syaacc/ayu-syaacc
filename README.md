@@ -1,3 +1,3 @@
-![banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ6YzRqeXB5aHo2NzA0a3Njc2E1aGR2ZmJvOWZ3ZzR5OHhnbWxuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd0ZnM5ZTFjZ3o4dXlnanJjN3J5bjd6NnpsOG12aXpwMWk2Znc1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZiOIxa6o2hllTLq5R/giphy.gif)
 
-![Typing](https://readme-typing-svg.herokuapp.com/hi, ayu | can't code (yet))
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=hi,+ayu+%7C+can%27t+code+(yet))
