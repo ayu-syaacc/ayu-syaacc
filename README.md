@@ -2,4 +2,3 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=can%27t+code+(yet))
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ayu-syaacc)
