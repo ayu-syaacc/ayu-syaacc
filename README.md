@@ -2,26 +2,22 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=can%27t+code+(yet))
 
-<table>
+
+
+<table border="0" cellpadding="8" cellspacing="0">
 <tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="assets/loecoe.png" width="100%" alt="loecoee">
-
-
-
+<td width="48%" align="center" valign="middle">
+<img src="./assets/coding-gif.png" width="100%" alt=coding pixel art">
 </td>
-<td width="55%" valign="middle">
+<td width="52%" valign="middle" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayu-syaacc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=82D0FF&icon_color=82D0FF&text_color=D6F1FF" width="100%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayu-syaacc&show_icons=true&theme=tokyonight&hide_border=true&title_color=82D0FF&icon_color=82D0FF" width="100%" alt="GitHub Stats">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-syaacc&layout=compact&theme=tokyonight&hide_border=true&title_color=82D0FF" width="100%" alt="Most Used Languages">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-syaacc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=82D0FF&text_color=D6F1FF" width="100%" alt="Most Used Languages">
 </td>
 </tr>
 </table>
-
-
 
 <h2>🫧 My Contribution Graph</h2>
 
