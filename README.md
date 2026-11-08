@@ -2,3 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=can%27t+code+(yet))
 
+
+## 🫧 My Contribution Graph
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg)
