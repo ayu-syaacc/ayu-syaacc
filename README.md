@@ -4,7 +4,7 @@
 
 
 
-## 🫧 My Contribution Graph
+<h2>🫧 My Contribution Graph</h2>
 
 <picture>
   <source
@@ -13,10 +13,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-light.svg"
   />
   <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg"
+    alt="Baby Blue Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-light.svg"
   />
 </picture>
