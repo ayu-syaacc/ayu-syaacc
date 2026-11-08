@@ -7,7 +7,7 @@
 <table border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="48%" align="center" valign="middle">
-<img src="./assets/coding-gif.png" width="100%" alt=coding pixel art">
+<img src=".assets/loecoe-transparent.png" width="100%" alt=coding pixel art">
 </td>
 <td width="52%" valign="middle" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayu-syaacc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=82D0FF&icon_color=82D0FF&text_color=D6F1FF" width="100%" alt="GitHub Stats">
