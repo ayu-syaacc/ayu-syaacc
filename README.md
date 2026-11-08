@@ -6,7 +6,7 @@
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="[URL-GIF-KAMU](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd0ZnM5ZTFjZ3o4dXlnanJjN3J5bjd6NnpsOG12aXpwMWk2Znc1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZiOIxa6o2hllTLq5R/giphy.gif)" width="100%" alt="nooo">
+<img src="assets/loecoe.png" width="100%" alt="loecoee">
 
 
 
