@@ -5,4 +5,4 @@
 
 ## 🫧 My Contribution Graph
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-dark.svg)
