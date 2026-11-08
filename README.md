@@ -3,6 +3,20 @@
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=can%27t+code+(yet))
 
 
+
 ## 🫧 My Contribution Graph
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph.svg"
+  />
+</picture>
