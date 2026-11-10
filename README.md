@@ -35,3 +35,4 @@
     src="https://raw.githubusercontent.com/ayu-syaacc/ayu-syaacc/output/pacman-contribution-graph-light.svg"
   />
 </picture>
+
